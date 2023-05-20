@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Here are a few emojis that describe me:
+# Here are a few emojis that describe me:
 
-🤓 Nerd <br/>
-😂 Funny <br/>
-😎 Cool <br/>
-💯 Perfectionist <br/>
-🤝 Team player <br/>
-👫 Friend <br/> <br/>
+- 🤓 Nerd <br/>
+- 😂 Funny <br/>
+- 😎 Cool <br/>
+- 💯 Perfectionist <br/>
+- 🤝 Team player <br/>
+- 👫 Friend <br/> 
 
 I hope to get to know you better!
 <!--
