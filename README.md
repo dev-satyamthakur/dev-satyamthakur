@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Here are a few emojis that describe me:
+
+🤓 Nerd
+😂 Funny
+😎 Cool
+💯 Perfectionist
+🤝 Team player
+👫 Friend
+
+I hope to get to know you better!
 <!--
 **dev-satyamthakur/dev-satyamthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
