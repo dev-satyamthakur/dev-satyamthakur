@@ -2,12 +2,12 @@
 
 Here are a few emojis that describe me:
 
-🤓 Nerd
-😂 Funny
-😎 Cool
-💯 Perfectionist
-🤝 Team player
-👫 Friend
+🤓 Nerd <br/>
+😂 Funny <br/>
+😎 Cool <br/>
+💯 Perfectionist <br/>
+🤝 Team player <br/>
+👫 Friend <br/> <br/>
 
 I hope to get to know you better!
 <!--
