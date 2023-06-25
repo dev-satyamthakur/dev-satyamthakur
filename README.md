@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*H7ozEyvlE9lcuVg2dSK-Jw.gif)](http://satyamthakur.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://satyamthakur.com)
 <h1 align="center">Hi 👋, I'm Satyam Thakur</h1>
 <h3 align="center">A tech enthusiast from Faridabad, India.</h3>
 
