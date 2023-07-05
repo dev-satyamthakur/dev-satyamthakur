@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **API Development**
 
-- 💬 Ask me about **Android, Kotlin and UI Designs**
+- 💬 Ask me about **Android, APIs and UI Designs**
 
 - 📫 How to reach me **twitter.satyamthakur.com**
 
