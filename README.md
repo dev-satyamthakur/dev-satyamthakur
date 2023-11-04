@@ -1,6 +1,10 @@
 # 👋 About Me
 Hi, I'm Satyam, a tech enthusiast and lifelong learner passionate about exploring the ever-evolving world of technology. Currently focusing on Front End Web Development and honing skills in HTML, CSS, JavaScript, and various frontend frameworks and libraries.
 
+# 📱 Android Apps on Play Store
+- **Quotation:** [![Play Store](https://img.shields.io/badge/Play%20Store-Quotation-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.satyamthakur.quotify)
+- **Memeverse:** [![Play Store](https://img.shields.io/badge/Play%20Store-Memeverse-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.satyamthakur.memeverse)
+
 # 💼 Skills
 - Android App Development with Kotlin
 - UI/UX Design
