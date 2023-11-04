@@ -2,8 +2,10 @@
 Hi, I'm Satyam, a tech enthusiast and lifelong learner passionate about exploring the ever-evolving world of technology. Currently focusing on Front End Web Development and honing skills in HTML, CSS, JavaScript, and various frontend frameworks and libraries.
 
 # 📱 Android Apps on Play Store
-- **Quotation:** [![Play Store](https://img.shields.io/badge/Play%20Store-Quotation-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.satyamthakur.quotify)
-- **Memeverse:** [![Play Store](https://img.shields.io/badge/Play%20Store-Memeverse-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.satyamthakur.memeverse)
+- ### Quotation
+  [![Play Store](https://img.shields.io/badge/Quotation-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.satyamthakur.quotify)
+- ### Memeverse
+  [![Play Store](https://img.shields.io/badge/Memeverse-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.satyamthakur.memeverse)
 
 # 💼 Skills
 - Android App Development with Kotlin
@@ -39,7 +41,7 @@ Hi, I'm Satyam, a tech enthusiast and lifelong learner passionate about explorin
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-satyamthakur) 
+[![LinkedIn](https://img.shields1.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-satyamthakur) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satyamthakur_tw)
 
 # 📈 GitHub Stats
